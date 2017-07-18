@@ -270,4 +270,5 @@ const generateInstructionString = function () {
     return instructionString;
 }
 
+
 main();
